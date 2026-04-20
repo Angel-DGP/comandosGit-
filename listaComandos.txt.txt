@@ -1,2 +1,5 @@
-git clone <Sirve para clonar un repositorio remoto y traerse los cambios mas actualizados>
-git commit <Sirve para comentaron los cambios que se encuentran en la staged, entonces con esos se comentan los cambios y versionamiento >
+git clone: <Sirve para clonar un repositorio remoto y traerse los cambios mas actualizados>
+git commit: <Sirve para comentaron los cambios que se encuentran en la staged, entonces con esos se comentan los cambios y versionamiento >
+git push: <Sirve para lanzar los cambios local al repositorio remoto>
+git status: <Con este se consulta el estado de los archivos en el repositorio local>
+git add: <Este comando sirve para agregar archivos en untracked a stateg>
