@@ -1,1 +1,2 @@
 git clone <Sirve para clonar un repositorio remoto y traerse los cambios mas actualizados>
+git commit <Sirve para comentaron los cambios que se encuentran en la staged, entonces con esos se comentan los cambios y versionamiento >
